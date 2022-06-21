@@ -1,0 +1,27 @@
+a {
+  transition: transform .3s ease-out;
+  display: inline-block;
+}
+
+nav a:hover {
+  color: #53f6ff;
+  transform: translate(-24px, 0);
+}
+
+a img:hover {
+  transform: scale(105%);
+}
+
+img {
+  object-fit: cover;
+  width: 100%;
+  transition: all 0.5s;
+}
+
+i {
+  transition: all 0.3s;
+}
+
+i:hover {
+  transform: scale(130%);
+}
