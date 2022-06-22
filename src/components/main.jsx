@@ -54,10 +54,10 @@ class Main extends Component {
         </div>
       </div>
     </div>
-    <div class="flex-icons fixed mobile-container">
-      <a href="https://www.linkedin.com/in/shinjimomoi/"><i class="fab fa-linkedin gray m-3"></i></a>
-      <a href="https://github.com/shinjimomoi"><i class="fab fa-github gray m-3"></i></a>
-      <a href="https://instagram.com/paintitblack8"><i class="fas fa-map-marker"></i></a>
+    <div class="flex-icons fixed mobile-container justify-center">
+      <a href="https://www.linkedin.com/in/shinjimomoi/"><ion-icon name="logo-linkedin" class="gray mb-3"></ion-icon></a>
+      <a href="https://github.com/shinjimomoi"><ion-icon name="logo-github" class="gray mb-3"></ion-icon></a>
+      <a href="https://instagram.com/paintitblack8"><ion-icon name="logo-instagram" class="gray mb-3"></ion-icon></a>
       <div class="vl"></div>
     </div>
   </div>

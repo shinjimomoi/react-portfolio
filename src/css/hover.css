@@ -18,10 +18,10 @@ img {
   transition: all 0.5s;
 }
 
-i {
+ion-icon {
   transition: all 0.3s;
 }
 
-i:hover {
+ion-icon:hover {
   transform: scale(130%);
 }
